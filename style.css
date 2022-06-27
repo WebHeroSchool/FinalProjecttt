@@ -1,0 +1,55 @@
+.menu {
+	font: 900 18px/21px robotomedium, arial, helvetica, sans-serif;
+}
+
+.header__content_title {
+	font: 900 40px/47px robotomedium, arial, helvetica, sans-serif;
+}
+
+.header__content_subtitle {
+	font: 900 20px/23px robotomedium, arial, helvetica, sans-serif;
+}
+
+.header__content_button {
+	font: 900 20px/23px robotomedium, arial, helvetica, sans-serif;
+}
+
+.aside__title {
+	font: 500 30px/35px robotomedium, arial, helvetica, sans-serif;
+}
+
+.aside__subtitle {
+	font: 900 30px/35px robotomedium, arial, helvetica, sans-serif;
+}
+
+.aside__button {
+	font: 900 20px/23px robotomedium, arial, helvetica, sans-serif;
+}
+
+.aside__text {
+	font: 900 20px/23px robotomedium, arial, helvetica, sans-serif;
+}
+
+.main__title {
+	font: 900 30px/35px robotomedium, arial, helvetica, sans-serif;
+}
+
+.main__subtitle {
+	font: 900 20px/23px robotomedium, arial, helvetica, sans-serif;
+}
+
+.main__button {
+	font: 900 20px/23px robotomedium, arial, helvetica, sans-serif;
+}
+
+.article__title {
+	font: 500 30px/35px robotomedium, arial, helvetica, sans-serif;
+}
+
+.address__nav {
+	font: 900 18px/21px robotomedium, arial, helvetica, sans-serif;
+}
+
+.address__number {
+	font: 900 18px/21px robotomedium, arial, helvetica, sans-serif;
+}
